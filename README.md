@@ -1,9 +1,7 @@
 # Projet d'Analyse des Sentiments avec NLP
 
-**Auteur:** BOUHLALI Abdelfattah  
-**Master:** Mathématiques Appliquées pour la Science des Données  
-**Année universitaire:** 2023 - 2024  
-**Encadrement:** GAOU Salma, HAMIDI Charaf
+**Auteur:** BOUHLALI Abdelfattah   
+**Année:** 2023 - 2024
 
 ## Aperçu
 
